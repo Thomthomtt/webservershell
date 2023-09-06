@@ -8,7 +8,7 @@ fi
 git add .
 git commit -m "Automatizado pelo script"
 
-if git push origin main -c | grep 'Username'; then
-echo "Thomthomtt"
+git push origin main
+
 
 echo "As alteracoes foram enviadas com sucesso"
