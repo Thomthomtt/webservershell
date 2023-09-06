@@ -18,6 +18,6 @@ fi
 git add .
 git commit -m "Automatizado pelo script"
 
-git push $remote_url $current_branch
+git push origin main
 
 echo "As alteracoes foram enviadas com sucesso"
