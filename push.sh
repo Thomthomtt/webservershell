@@ -16,7 +16,7 @@ exit 1
 fi
 
 git add .
-git commit -m "Automatizado pelo script
+git commit -m "Automatizado pelo script"
 
 git push $remote_url $current_branch
 
